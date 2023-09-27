@@ -1,0 +1,32 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  background: black;
+}
+
+body {
+  color: white;
+}
+
+.fintech {
+  background: linear-gradient(180deg, #2D5DFE 0%, rgba(237, 132, 35, 0.80) 100%);
+}
+
+.transport {
+  background: linear-gradient(180deg, #373535 0%, #000 100%);
+}
+
+.rio {
+  background: linear-gradient(180deg, #ED1C24 0%, rgba(52, 78, 209, 0.00) 100%);
+}
+
+.shipment {
+  background: linear-gradient(180deg, #1241BA 0%, #251C59 100%);
+}
