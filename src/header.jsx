@@ -46,7 +46,7 @@ export default function Header() {
                                     </a>
                                 </li>
                                 <li className="text-gray-400 hover:text-white transition-all duration-500">
-                                    <a href="#works" onClick={closeNavbar}>
+                                    <a href="/resume-c.pdf" onClick={closeNavbar}>
                                         Resume
                                     </a>
                                 </li>
