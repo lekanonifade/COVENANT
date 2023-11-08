@@ -17,7 +17,7 @@ export default function Header() {
     return (
         <header className="w-full bg-black fixed top-0">
             <nav>
-                <div className="justify-between px-3 mx-auto lg:max-w-7xl md:items-center md:flex md:px-4">
+                <div className="justify-between px-5 mx-auto lg:max-w-7xl md:items-center md:flex md:px-4">
                     <div>
                         <div className="flex items-center justify-between py-2 md:py-3 md:block">
                             <a href="#home"  onClick={closeNavbar}>
