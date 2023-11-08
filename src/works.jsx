@@ -7,7 +7,7 @@ export default function Works() {
             <p className="h-8"></p>
 
             <div className="flex flex-col lg:flex-row w-full">
-                <div className="lg:w-1/2 lg:p-0 p-10 fintech lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 lg:items-start lg:text-left text-center items-center justify-center">
+                <div className="lg:w-1/2 lg:p-0 py-10 px-5 md:p-10 fintech lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 items-start text-left items-left justify-center">
                     <p className="text-xl">
                         Product Design
                     </p>
@@ -32,7 +32,7 @@ export default function Works() {
             </div>
 
             <div className="flex flex-col lg:flex-row w-full">
-                <div className="lg:w-1/2 lg:p-0 p-10 transport lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 lg:items-start lg:text-left text-center items-center justify-center">
+                <div className="lg:w-1/2 lg:p-0 py-10 px-5 md:p-10 transport lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 items-start text-left items-left justify-center">
                     <p className="text-xl">
                         UX Design
                     </p>
@@ -57,7 +57,7 @@ export default function Works() {
             </div>
 
             <div className="flex flex-col lg:flex-row w-full">
-                <div className="lg:w-1/2 lg:p-0 p-10 rio lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 lg:items-start lg:text-left text-center items-center justify-center">
+                <div className="lg:w-1/2 lg:p-0 py-10 px-5 md:p-10 rio lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 items-start text-left items-left justify-center">
                     <p className="text-xl">
                         UX/UI Design
                     </p>
@@ -82,7 +82,7 @@ export default function Works() {
             </div>
 
             <div className="flex flex-col lg:flex-row w-full">
-                <div className="lg:w-1/2 lg:p-0 p-10 shipment lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 lg:items-start lg:text-left text-center items-center justify-center">
+                <div className="lg:w-1/2 lg:p-0 py-10 px-5 md:p-10 shipment lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 items-start text-left items-left justify-center">
                     <p className="text-xl">
                         Product Design
                     </p>
