@@ -4,7 +4,7 @@ export default function Works() {
     return (
         <body className="grid gap-10" id="works">
 
-            <p className="h-8"></p>
+            <p className="h-10"></p>
 
             <div className="flex flex-col lg:flex-row w-full">
                 <div className="lg:w-1/2 lg:p-0 p-10 fintech lg:px-[10%] lg:h-full h-[50vh] flex flex-col gap-3 lg:items-start lg:text-left text-center items-center justify-center">
