@@ -17,7 +17,7 @@ export default function Introduction() {
                     </div>
                 </div>
                 <div>
-                    <img src="/images/deja.svg" alt="deja" className="lg:w-96 md:w-80 w-72" />
+                    <img src="/images/deja.png" alt="deja" className="lg:w-96 md:w-80 w-72" />
                 </div>
             </div>
             <div className="self-center items-center justify-center">
